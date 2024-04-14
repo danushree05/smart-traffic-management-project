@@ -27,13 +27,13 @@ The project comprises three modules:
 ![Vehicle Detection](./vehicle-detection.png)
 
 ### Signal Switching Algorithm and Simulation
-##STEP 1
+**STEP 1**
 ![Demo](./Demo1.png)
 
-STEP 2
+**STEP 2**
 ![Demo](./Demo2.png)
 
-STEP 3
+**STEP 3**
 ![Demo](./Demo3.png)
 
 ## Contributors
